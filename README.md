@@ -1,6 +1,6 @@
 # Udacity Stedi Human Balance Analytics Project
 
-## Overall Steps From Start To Finish
+## Setting Up S3, AWS Glue, and IAM Policy
 ### Creating S3 Bucket and VPC Gateway Endpoint Connection For AWS Glue
 #### 1) aws s3 mb s3://stedi-hba-lakehouse-pr --> makes s3 bucket
 #### 2) aws s3 ls s3://stedi-hba-lakehouse-pr --> checks s3 bucket files/sub-folders
